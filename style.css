@@ -1,0 +1,147 @@
+
+.ha{
+
+    
+        text-align: center;
+        color: RED;
+        text-shadow: 6px 7px 5px black;
+        font-size: 5em;
+        border-style:dashed ;
+        border-color: red  blue  purple blue;
+        border-width: 5px;
+        margin-top: none;
+       
+     }
+
+
+.hasan{
+    color: RED;
+    text-shadow: 15px 15px 5px black;
+    font-size: 25em;
+    text-align: center;
+   
+
+
+}
+
+
+
+
+.h{
+    color: red;
+}
+
+.has{
+    color: black;
+    background-color: yellow;
+    border-style: solid ;
+    padding:10px  ;
+    text-align: center;
+}
+
+
+.para{
+    height:20em;
+width:20em;
+min-width: 10em;
+min-height:10em;
+max-width: 90em;
+max-height: 90em;
+}
+
+
+.p3{
+    height:15em;
+    width:20em;
+    min-width: 10em;
+    min-height:10em;
+    max-width: 90em;
+    max-height: 90em;
+}
+
+
+.p4{
+    height:20em;
+    width:25em;
+    min-width: 10em;
+    min-height:10em;
+    max-width: 90em;
+    max-height: 90em;
+}
+
+
+
+.p5{
+    height:20em;
+    width:25em;
+    min-width: 10em;
+    min-height:10em;
+    max-width: 90em;
+    max-height: 90em;
+}
+
+.l{  color: gold;
+    text-shadow: 15px 15px 5px black;
+    font-size: 8em;
+    text-align: center;
+
+}
+
+
+.p10{  height:20em;
+    width:25em;
+    min-width: 10em;
+    min-height:10em;
+    max-width: 90em;
+    max-height: 90em;
+
+}
+
+.p11{ height:20em;
+    width:25em;
+    min-width: 10em;
+    min-height:10em;
+    max-width: 90em;
+    max-height: 90em;
+
+}
+
+.p12{
+    height:20em;
+    width:25em;
+    min-width: 10em;
+    min-height:10em;
+    max-width: 90em;
+    max-height: 90em;
+}
+
+
+.p13{
+    height:25em;
+    width:25em;
+    min-width: 10em;
+    min-height:10em;
+    max-width: 90em;
+    max-height: 90em;
+    
+}
+
+.p14{ height:25em;
+    width:25em;
+    min-width: 10em;
+    min-height:10em;
+    max-width: 90em;
+    max-height: 90em;}
+
+
+    .ce{
+        text-align: center;
+    }
+
+    .samreen{
+        color: orangered;
+    text-shadow: 15px 15px 5px black;
+    font-size: 8em;
+    text-align: center;
+    }
+   
